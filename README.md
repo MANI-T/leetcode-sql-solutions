@@ -16,7 +16,7 @@ SQL Metrics Master List
 
 ## 1. Customer Metrics
 
-     Concepts
+     ## Concepts
       New Customers
       Returning Customers
       Unique Customers
