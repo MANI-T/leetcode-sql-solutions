@@ -1,6 +1,6 @@
 # 001. Customers Who Never Order
 
-**LeetCode:** 183  
+**LeetCode:** 
 **Difficulty:** Easy  
 **Category:** Customer Metrics
 
@@ -133,17 +133,6 @@ For every customer,
 
 - check whether an order exists.
 - if no order exists, return that customer.
-
----
-
-# 📈 Complexity
-
-| Solution | Time | Space |
-|----------|------|-------|
-|LEFT JOIN|O(n)|O(1)|
-|NOT EXISTS|O(n)|O(1)|
-
----
 
 # ⚠️ Common Mistakes
 
