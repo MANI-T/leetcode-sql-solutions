@@ -1,3 +1,0 @@
-uv venv
-source .venv/bin/activate
-uv pip install ipython-sql pymysql jupyter pandas sqlalchemy
